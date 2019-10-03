@@ -5,3 +5,6 @@
 - GitHub is really helpful
 - I hope I can code websites easily after this
 - I love tech!
+! [Image of Github]
+(https://images.app.goo.gl/oi8cNehiMUFvMHxU9)
+
